@@ -1,4 +1,4 @@
-package LeetCode.LinkedList;
+package LinkedList;
 
 public class ReverseLL_206 {
     public ListNode reverseList(ListNode head) {

@@ -1,4 +1,4 @@
-package LeetCode.LinkedList;
+package LinkedList;
 
 public class RemoveDuplicateFromLL_83 {
 
